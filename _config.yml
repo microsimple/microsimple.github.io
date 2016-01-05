@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://microsimple.github.io
+title: Micro Simple
+tagline: A Micro Simple log of everyday life
+description: My awesome new site
+paginate: 5
