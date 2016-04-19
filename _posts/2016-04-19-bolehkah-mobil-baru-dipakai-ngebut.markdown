@@ -5,7 +5,7 @@ layout: post
 ---
 Ada beberapa hal yang harus diperhatikan ketika anda memiliki mobil baru. Beberapa orang percaya bahwa mobil baru selayaknya tidak digeber atau digas maksimal, termasuk apabila anda baru saja membeli <a href="https://www.daihatsu.co.id/">mobil Daihatsu terbaru</a>. Apakah benar mitos tersebut, simak ulasannya berikut ini. 
 
-<a href="http://dashcamforcar.com/wp-content/uploads/2014/08/photodune-4065647-blured-autumn-and-colored-treelines-visible-from-inside-of-car-while-driving-s-1.jpg">
+<img src="http://dashcamforcar.com/wp-content/uploads/2014/08/photodune-4065647-blured-autumn-and-colored-treelines-visible-from-inside-of-car-while-driving-s-1.jpg">
 
 Beberapa yang memiliki kendaraan baru sering cemas bagaimana memperlakukan kendaraannya serta lebih pilih meyakini pendapat orang daripada mencari tahu mana yang benar. 
 
