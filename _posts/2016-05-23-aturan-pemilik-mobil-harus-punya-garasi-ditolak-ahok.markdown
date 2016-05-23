@@ -5,7 +5,7 @@ layout: post
 ---
 Setiap orang mengininkan memiliki mobil, terutama mobil baru yang bagus. Namun tahukah anda bahwa ada calon peraturan baru di Jakarta yang mengatakan bahwa <a href="http://daihatsu.co.id/product/ayla">pemilik mobil baru murah</a> harus punya garasi. Tapi untung saja peraturan tersebut ditolak Gubernur Jakarta. 
 
-<img src="http://edu-news.ro/wp-content/uploads/2016/02/aviz-universitati-lucrari-stiintifice.jpg" />
+<img width="100%" src="http://edu-news.ro/wp-content/uploads/2016/02/aviz-universitati-lucrari-stiintifice.jpg" />
 
 Gubernur DKI Jakarta Basuki Tjahaja Purnama menampik gagasan Dewan Perwakilan Rakyat Daerah (DPRD) DKI Jakarta untuk mengaplikasikan ketentuan konsumen mobil mesti mempunyai garasi. Menurut dia ketentuan itu tidak butuh diaplikasikan untuk menangani kemacetan di Jakarta. 
 
