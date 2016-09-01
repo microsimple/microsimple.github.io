@@ -2,6 +2,7 @@
 published: true
 title: Bijak dalam Membeli Perabot Rumah
 layout: post
+permalink: perabot-rumah
 ---
 Bagi yang baru saja menikah atau ingin memutuskan untuk menikah, hal yang sering menjadi kepala pusing adalah perihal perabot rumah yang nanti akan dibeli dan ditaruh di rumah. Harus bijak dalam membeli perabot rumah. Jangan sampai ita malah membeli perabot yang kurang diperlukan dan melupakan perabot yang sangat dibutuhkan.
 
