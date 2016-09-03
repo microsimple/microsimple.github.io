@@ -2,6 +2,7 @@
 published: true
 title: Meningkatkan Daya Kreativitas Anak dengan Mainan
 layout: post
+permalink: mainan-anak-edukatif
 ---
 Siapa bilang banyak bermain membuat anak menjadi bodoh? Ya, mungkin kamu pernah bertemu dengan seorang yang kolot yang beranggapan bahwa banyak bermain bisa membuat seorang anak bodoh. Ini adalah pemikiran yang sudah usang. Mainan justru bisa merangsang anak menjadi seorang yang cerdas. Tergantung bagaimana orang tua mengatur mainan apa saja yang dimainkan oleh sang anak. Selain itu, jatah jam bermain juga harus diatur agar anak tetap bisa menjaga kesehatannya.
 
